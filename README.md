@@ -1,2 +1,2 @@
 # Word2Vec
-Implementation of CBOW, Sip-Gram and Negative Sampling 
+Implementation of CBOW, Skip-Gram and Negative Sampling 
